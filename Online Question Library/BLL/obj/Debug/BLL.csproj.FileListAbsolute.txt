@@ -1,0 +1,14 @@
+D:\ExamLibrary Project\BLL\bin\Debug\BLL.dll
+D:\ExamLibrary Project\BLL\bin\Debug\BLL.pdb
+D:\ExamLibrary Project\BLL\bin\Debug\DAL.dll
+D:\ExamLibrary Project\BLL\bin\Debug\DAL.pdb
+D:\ExamLibrary Project\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\ExamLibrary Project\BLL\obj\Debug\BLL.dll
+D:\ExamLibrary Project\BLL\obj\Debug\BLL.pdb
+F:\souparno\ExamLibrary Project\BLL\bin\Debug\BLL.dll
+F:\souparno\ExamLibrary Project\BLL\bin\Debug\BLL.pdb
+F:\souparno\ExamLibrary Project\BLL\bin\Debug\DAL.dll
+F:\souparno\ExamLibrary Project\BLL\bin\Debug\DAL.pdb
+F:\souparno\ExamLibrary Project\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno\ExamLibrary Project\BLL\obj\Debug\BLL.dll
+F:\souparno\ExamLibrary Project\BLL\obj\Debug\BLL.pdb

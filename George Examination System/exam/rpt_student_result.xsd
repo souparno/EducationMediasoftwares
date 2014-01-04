@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="rpt_student_result" targetNamespace="http://tempuri.org/rpt_student_result.xsd" xmlns:mstns="http://tempuri.org/rpt_student_result.xsd" xmlns="http://tempuri.org/rpt_student_result.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="rpt_student_result" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="rpt_student_result" msprop:Generator_DataSetName="rpt_student_result">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dt_student_result" msprop:Generator_UserTableName="dt_student_result" msprop:Generator_RowDeletedName="dt_student_resultRowDeleted" msprop:Generator_RowChangedName="dt_student_resultRowChanged" msprop:Generator_RowClassName="dt_student_resultRow" msprop:Generator_RowChangingName="dt_student_resultRowChanging" msprop:Generator_RowEvArgName="dt_student_resultRowChangeEvent" msprop:Generator_RowEvHandlerName="dt_student_resultRowChangeEventHandler" msprop:Generator_TableClassName="dt_student_resultDataTable" msprop:Generator_TableVarName="tabledt_student_result" msprop:Generator_RowDeletingName="dt_student_resultRowDeleting" msprop:Generator_TablePropName="dt_student_result">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="user_name" msprop:Generator_UserColumnName="user_name" msprop:Generator_ColumnVarNameInTable="columnuser_name" msprop:Generator_ColumnPropNameInRow="user_name" msprop:Generator_ColumnPropNameInTable="user_nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="exam_no" msprop:Generator_UserColumnName="exam_no" msprop:Generator_ColumnVarNameInTable="columnexam_no" msprop:Generator_ColumnPropNameInRow="exam_no" msprop:Generator_ColumnPropNameInTable="exam_noColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="test_no" msprop:Generator_UserColumnName="test_no" msprop:Generator_ColumnVarNameInTable="columntest_no" msprop:Generator_ColumnPropNameInRow="test_no" msprop:Generator_ColumnPropNameInTable="test_noColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sum_correct_ans" msprop:Generator_UserColumnName="sum_correct_ans" msprop:Generator_ColumnVarNameInTable="columnsum_correct_ans" msprop:Generator_ColumnPropNameInRow="sum_correct_ans" msprop:Generator_ColumnPropNameInTable="sum_correct_ansColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="sum_wrong_ans" msprop:Generator_UserColumnName="sum_wrong_ans" msprop:Generator_ColumnVarNameInTable="columnsum_wrong_ans" msprop:Generator_ColumnPropNameInRow="sum_wrong_ans" msprop:Generator_ColumnPropNameInTable="sum_wrong_ansColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="no_of_ques" msprop:Generator_UserColumnName="no_of_ques" msprop:Generator_ColumnVarNameInTable="columnno_of_ques" msprop:Generator_ColumnPropNameInRow="no_of_ques" msprop:Generator_ColumnPropNameInTable="no_of_quesColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="exam_name" msprop:Generator_UserColumnName="exam_name" msprop:Generator_ColumnPropNameInRow="exam_name" msprop:Generator_ColumnVarNameInTable="columnexam_name" msprop:Generator_ColumnPropNameInTable="exam_nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="test_name" msprop:Generator_UserColumnName="test_name" msprop:Generator_ColumnPropNameInRow="test_name" msprop:Generator_ColumnVarNameInTable="columntest_name" msprop:Generator_ColumnPropNameInTable="test_nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="user_id" msprop:Generator_UserColumnName="user_id" msprop:Generator_ColumnPropNameInRow="user_id" msprop:Generator_ColumnVarNameInTable="columnuser_id" msprop:Generator_ColumnPropNameInTable="user_idColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dt_student_result_details" msprop:Generator_UserTableName="dt_student_result_details" msprop:Generator_RowDeletedName="dt_student_result_detailsRowDeleted" msprop:Generator_TableClassName="dt_student_result_detailsDataTable" msprop:Generator_RowChangedName="dt_student_result_detailsRowChanged" msprop:Generator_RowClassName="dt_student_result_detailsRow" msprop:Generator_RowChangingName="dt_student_result_detailsRowChanging" msprop:Generator_RowEvArgName="dt_student_result_detailsRowChangeEvent" msprop:Generator_RowEvHandlerName="dt_student_result_detailsRowChangeEventHandler" msprop:Generator_TablePropName="dt_student_result_details" msprop:Generator_TableVarName="tabledt_student_result_details" msprop:Generator_RowDeletingName="dt_student_result_detailsRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="exam_no" msprop:Generator_UserColumnName="exam_no" msprop:Generator_ColumnPropNameInRow="exam_no" msprop:Generator_ColumnVarNameInTable="columnexam_no" msprop:Generator_ColumnPropNameInTable="exam_noColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="test_no" msprop:Generator_UserColumnName="test_no" msprop:Generator_ColumnPropNameInRow="test_no" msprop:Generator_ColumnVarNameInTable="columntest_no" msprop:Generator_ColumnPropNameInTable="test_noColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sub_no" msprop:Generator_UserColumnName="sub_no" msprop:Generator_ColumnPropNameInRow="sub_no" msprop:Generator_ColumnVarNameInTable="columnsub_no" msprop:Generator_ColumnPropNameInTable="sub_noColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="exam_name" msprop:Generator_UserColumnName="exam_name" msprop:Generator_ColumnPropNameInRow="exam_name" msprop:Generator_ColumnVarNameInTable="columnexam_name" msprop:Generator_ColumnPropNameInTable="exam_nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="test_name" msprop:Generator_UserColumnName="test_name" msprop:Generator_ColumnPropNameInRow="test_name" msprop:Generator_ColumnVarNameInTable="columntest_name" msprop:Generator_ColumnPropNameInTable="test_nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sub_name" msprop:Generator_UserColumnName="sub_name" msprop:Generator_ColumnPropNameInRow="sub_name" msprop:Generator_ColumnVarNameInTable="columnsub_name" msprop:Generator_ColumnPropNameInTable="sub_nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sum_correct_ans" msprop:Generator_UserColumnName="sum_correct_ans" msprop:Generator_ColumnPropNameInRow="sum_correct_ans" msprop:Generator_ColumnVarNameInTable="columnsum_correct_ans" msprop:Generator_ColumnPropNameInTable="sum_correct_ansColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="sum_wrong_ans" msprop:Generator_UserColumnName="sum_wrong_ans" msprop:Generator_ColumnPropNameInRow="sum_wrong_ans" msprop:Generator_ColumnVarNameInTable="columnsum_wrong_ans" msprop:Generator_ColumnPropNameInTable="sum_wrong_ansColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="no_of_ques" msprop:Generator_UserColumnName="no_of_ques" msprop:Generator_ColumnPropNameInRow="no_of_ques" msprop:Generator_ColumnVarNameInTable="columnno_of_ques" msprop:Generator_ColumnPropNameInTable="no_of_quesColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="user_id" msprop:Generator_UserColumnName="user_id" msprop:Generator_ColumnPropNameInRow="user_id" msprop:Generator_ColumnVarNameInTable="columnuser_id" msprop:Generator_ColumnPropNameInTable="user_idColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="user_name" msprop:Generator_UserColumnName="user_name" msprop:Generator_ColumnPropNameInRow="user_name" msprop:Generator_ColumnVarNameInTable="columnuser_name" msprop:Generator_ColumnPropNameInTable="user_nameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="exam">
+</Property><Property Name="Solution File" Value="D:\souparno\Project\dot net\desktop application\Dikhsha Examination System\exam.sln">
+</Property><Property Name="Date" Value="Wednesday, June 12, 2013">
+</Property><Property Name="Time" Value="11:18 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="4" Project="exam" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="exam" Source="exam\exam.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="exam" Source="exam\exam.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="exam.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="exam.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="exam" Source="exam\exam.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

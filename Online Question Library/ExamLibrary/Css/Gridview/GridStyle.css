@@ -1,0 +1,38 @@
+﻿.HeaderStyle
+{
+	background-color:#ADB96E;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+.RowStyle
+{
+	background-color:#eeeeee;
+	color:#333333;
+	text-align:center;
+	
+}
+.AlterntingRowStyle
+{
+	background-color:#FFFFFF;
+	color:#333333;
+	text-align:center;
+}
+
+.GridDiv
+{
+	/*margin-top:40px;
+	margin-left:120px;
+	padding-left:120px;*/
+	margin:auto;
+	
+	
+}
+
+.GridDiv a
+{
+	font-style:normal;
+	text-decoration:none;
+	color:#333333;
+}
+

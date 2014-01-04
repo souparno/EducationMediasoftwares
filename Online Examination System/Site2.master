@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site2.master.cs" Inherits="Site2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server"></asp:ContentPlaceHolder>
+    <link href="Styles/Site2.css" rel="Stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="page">
+        <div class="header">
+          <div class="title">
+                <h1>
+                 Online Examination System
+            </h1>
+            </div>
+          <div class="clear"></div>
+        </div>
+        
+      <div class="sidebar1">
+       <asp:ContentPlaceHolder id="SideBar1" runat="server"></asp:ContentPlaceHolder>
+      </div>
+      <div class="content">
+       <asp:ContentPlaceHolder id="Content" runat="server"></asp:ContentPlaceHolder>
+      </div>
+      <div class="clear"></div>
+    
+    </div>
+   <div class="footer"></div>
+    </form>
+</body>
+</html>

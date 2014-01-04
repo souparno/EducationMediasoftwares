@@ -1,0 +1,258 @@
+F:\souparno\exam\exam\bin\Debug\exam.exe
+F:\souparno\exam\exam\bin\Debug\exam.pdb
+F:\souparno\exam\exam\bin\Debug\exam.exe.config
+F:\souparno\exam\exam\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno\exam\exam\obj\Debug\exam.frm_create_user.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_exam.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_master_question.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_master_subject.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_master_test.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_mdi_parent.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_login.resources
+F:\souparno\exam\exam\obj\Debug\exam.Frm_master_exam.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_rpt_form.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_select_exam.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_sub_group.resources
+F:\souparno\exam\exam\obj\Debug\exam.Properties.Resources.resources
+F:\souparno\exam\exam\obj\Debug\exam.csproj.GenerateResource.Cache
+F:\souparno\exam\exam\obj\Debug\exam.exe
+F:\souparno\exam\exam\obj\Debug\exam.pdb
+F:\souparno\exam\exam\obj\Debug\exam.frm_user_cntrl.resources
+F:\souparno\exam\exam\obj\Debug\exam.usr_cntrl.resources
+F:\souparno\exam\exam\obj\Debug\exam.frm_mater_organisation.resources
+F:\souparno\exam_diksha\exam\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_create_user.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_exam.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_master_question.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_master_subject.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_master_test.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_mdi_parent.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_login.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.Frm_master_exam.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_mater_organisation.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_rpt_form.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_select_exam.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_sub_group.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.frm_user_cntrl.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.usr_cntrl.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.csproj.GenerateResource.Cache
+F:\souparno\exam_diksha\exam\bin\Debug\exam.exe.config
+F:\souparno\exam_diksha\exam\bin\Debug\exam.exe
+F:\souparno\exam_diksha\exam\bin\Debug\exam.pdb
+F:\souparno\exam_diksha\exam\obj\Debug\exam.Properties.Resources.resources
+F:\souparno\exam_diksha\exam\obj\Debug\exam.exe
+F:\souparno\exam_diksha\exam\obj\Debug\exam.pdb
+F:\souparno\exam_george_coading\exam\bin\Debug\exam.exe.config
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.exe
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.pdb
+F:\souparno\exam_george_coading\exam\bin\Debug\exam.exe
+F:\souparno\exam_george_coading\exam\bin\Debug\exam.pdb
+F:\souparno\exam_george_coading\exam\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_create_user.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_exam.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_master_question.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_master_subject.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_master_test.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_mdi_parent.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_login.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.Frm_master_exam.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_mater_organisation.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_rpt_form.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_select_exam.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_sub_group.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_user_cntrl.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.Properties.Resources.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.usr_cntrl.resources
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.csproj.GenerateResource.Cache
+F:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_QuestionAddEdit.resources
+E:\souparno\exam_george_coading\exam\bin\Debug\exam.exe.config
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.exe
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.pdb
+E:\souparno\exam_george_coading\exam\bin\Debug\exam.exe
+E:\souparno\exam_george_coading\exam\bin\Debug\exam.pdb
+E:\souparno\exam_george_coading\exam\obj\Debug\ResolveAssemblyReference.cache
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_QuestionAddEdit.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_SelectStudent.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_create_user.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_exam.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_master_question.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_master_subject.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_master_test.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_mdi_parent.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_login.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.Frm_master_exam.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_mater_organisation.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_rpt_form.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_select_exam.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_sub_group.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.frm_user_cntrl.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.Properties.Resources.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.usr_cntrl.resources
+E:\souparno\exam_george_coading\exam\obj\Debug\exam.csproj.GenerateResource.Cache
+F:\souparno 2\exam_george_coading\exam\bin\Debug\exam.exe.config
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.exe
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.pdb
+F:\souparno 2\exam_george_coading\exam\bin\Debug\exam.exe
+F:\souparno 2\exam_george_coading\exam\bin\Debug\exam.pdb
+F:\souparno 2\exam_george_coading\exam\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_QuestionAddEdit.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_SelectStudent.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_create_user.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_exam.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_master_question.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_master_subject.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_master_test.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_mdi_parent.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_login.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.Frm_master_exam.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_mater_organisation.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_select_exam.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_sub_group.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_user_cntrl.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.Properties.Resources.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.usr_cntrl.resources
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.csproj.GenerateResource.Cache
+F:\souparno 2\exam_george_coading\exam\obj\Debug\exam.frm_result_det.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\bin\Debug\exam.exe.config
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.exe
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.pdb
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\bin\Debug\exam.exe
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\bin\Debug\exam.pdb
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_experimemnt.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_QuestionAddEdit.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_result_det.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_SelectStudent.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_create_user.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_exam.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_master_question.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_master_subject.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_master_test.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_mdi_parent.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_login.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.Frm_master_exam.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_mater_organisation.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_select_exam.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_sub_group.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.frm_user_cntrl.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.Properties.Resources.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.usr_cntrl.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM\exam\obj\Debug\exam.csproj.GenerateResource.Cache
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\bin\Debug\exam.exe.config
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\bin\Debug\exam.exe
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\bin\Debug\exam.pdb
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.Form1.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_exam.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_insert_Image.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_instructions.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_QuestionAddEdit.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_result_det.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_SelectStudent.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_create_user.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_master_question.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_master_subject.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_master_test.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_mdi_parent.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_login.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.Frm_master_exam.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_mater_organisation.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_select_exam.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_start.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.frm_sub_group.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.Properties.Resources.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.usr_cntrl.resources
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.csproj.GenerateResource.Cache
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.exe
+F:\souparno 2\GEORGE EXAMINATION SYSTEM 2\exam\obj\Debug\exam.pdb
+F:\souparno\George Examination System\exam\bin\Debug\exam.exe.config
+F:\souparno\George Examination System\exam\obj\Debug\exam.exe
+F:\souparno\George Examination System\exam\obj\Debug\exam.pdb
+F:\souparno\George Examination System\exam\bin\Debug\exam.exe
+F:\souparno\George Examination System\exam\bin\Debug\exam.pdb
+F:\souparno\George Examination System\exam\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno\George Examination System\exam\obj\Debug\exam.Form1.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_exam.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_insert_Image.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_instructions.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_QuestionAddEdit.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_result_det.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_SelectStudent.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_create_user.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_master_question.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_master_subject.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_master_test.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_mdi_parent.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_login.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.Frm_master_exam.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_mater_organisation.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_select_exam.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_start.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.frm_sub_group.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.Properties.Resources.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.usr_cntrl.resources
+F:\souparno\George Examination System\exam\obj\Debug\exam.csproj.GenerateResource.Cache
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\bin\Debug\exam.exe.config
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.exe
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.pdb
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\bin\Debug\exam.exe
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\bin\Debug\exam.pdb
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\bin\Debug\office.dll
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\bin\Debug\office.xml
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.Form1.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_exam.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_insert_Image.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_instructions.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_QuestionAddEdit.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_result_det.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_SelectStudent.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_create_user.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_master_question.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_master_subject.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_master_test.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_mdi_parent.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_login.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.Frm_master_exam.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_mater_organisation.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_select_exam.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_start.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.frm_sub_group.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.Properties.Resources.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.usr_cntrl.resources
+C:\Users\computer1\Desktop\New Folder\George Examination System\exam\obj\Debug\exam.csproj.GenerateResource.Cache
+F:\souparno\projects\George Examination System\exam\bin\Debug\exam.exe.config
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.exe
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.pdb
+F:\souparno\projects\George Examination System\exam\bin\Debug\exam.exe
+F:\souparno\projects\George Examination System\exam\bin\Debug\exam.pdb
+F:\souparno\projects\George Examination System\exam\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\souparno\projects\George Examination System\exam\bin\Debug\office.dll
+F:\souparno\projects\George Examination System\exam\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\souparno\projects\George Examination System\exam\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\souparno\projects\George Examination System\exam\bin\Debug\office.xml
+F:\souparno\projects\George Examination System\exam\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.Form1.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_exam.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_insert_Image.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_instructions.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_QuestionAddEdit.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_result_det.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_SelectStudent.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_create_user.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_master_question.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_master_subject.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_master_test.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_mdi_parent.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_login.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.Frm_master_exam.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_mater_organisation.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_select_exam.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_start.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.frm_sub_group.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.Properties.Resources.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.usr_cntrl.resources
+F:\souparno\projects\George Examination System\exam\obj\Debug\exam.csproj.GenerateResource.Cache

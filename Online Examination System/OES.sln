@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OES", "D:\souparno\Project\dot net\web application\OES\", "{731E0A5D-247E-4FF2-B0DF-3C0BA6C239DA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/OES"
+		Debug.AspNetCompiler.PhysicalPath = "D:\souparno\Project\dot net\web application\OES\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\OES\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/OES"
+		Release.AspNetCompiler.PhysicalPath = "D:\souparno\Project\dot net\web application\OES\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\OES\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49935"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731E0A5D-247E-4FF2-B0DF-3C0BA6C239DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731E0A5D-247E-4FF2-B0DF-3C0BA6C239DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

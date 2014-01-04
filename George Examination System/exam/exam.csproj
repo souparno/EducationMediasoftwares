@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9CE896F0-3C57-495A-9F7F-16B23D38AB4B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>exam</RootNamespace>
+    <AssemblyName>exam</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ApplicationIcon>ExamIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="class_Application.cs" />
+    <Compile Include="crSTResult_Det.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crSTResult_Det.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crSTResult_Sum.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crSTResult_Sum.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_exam.Designer.cs">
+      <DependentUpon>frm_exam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_insert_Image.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_insert_Image.Designer.cs">
+      <DependentUpon>frm_insert_Image.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_instructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_instructions.Designer.cs">
+      <DependentUpon>frm_instructions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QuestionAddEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QuestionAddEdit.Designer.cs">
+      <DependentUpon>frm_QuestionAddEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_result_det.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_result_det.Designer.cs">
+      <DependentUpon>frm_result_det.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SelectStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SelectStudent.Designer.cs">
+      <DependentUpon>frm_SelectStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_select_exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_select_exam.designer.cs">
+      <DependentUpon>frm_select_exam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_start.Designer.cs">
+      <DependentUpon>frm_start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="frm_create_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_create_user.Designer.cs">
+      <DependentUpon>frm_create_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_master_question.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_master_question.Designer.cs">
+      <DependentUpon>frm_master_question.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_master_subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_master_subject.Designer.cs">
+      <DependentUpon>frm_master_subject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_master_test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_master_test.Designer.cs">
+      <DependentUpon>frm_master_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mdi_parent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mdi_parent.Designer.cs">
+      <DependentUpon>frm_mdi_parent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_master_exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_master_exam.Designer.cs">
+      <DependentUpon>Frm_master_exam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mater_organisation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mater_organisation.Designer.cs">
+      <DependentUpon>frm_mater_organisation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_sub_group.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_sub_group.Designer.cs">
+      <DependentUpon>frm_sub_group.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="crSTResult_Det.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crSTResult_Det.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crSTResult_Sum.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crSTResult_Sum.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_exam.resx">
+      <DependentUpon>frm_exam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_insert_Image.resx">
+      <DependentUpon>frm_insert_Image.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_instructions.resx">
+      <DependentUpon>frm_instructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QuestionAddEdit.resx">
+      <DependentUpon>frm_QuestionAddEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_result_det.resx">
+      <DependentUpon>frm_result_det.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SelectStudent.resx">
+      <DependentUpon>frm_SelectStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_create_user.resx">
+      <DependentUpon>frm_create_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_master_question.resx">
+      <DependentUpon>frm_master_question.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_master_subject.resx">
+      <DependentUpon>frm_master_subject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_master_test.resx">
+      <DependentUpon>frm_master_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mdi_parent.resx">
+      <DependentUpon>frm_mdi_parent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_master_exam.resx">
+      <DependentUpon>Frm_master_exam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mater_organisation.resx">
+      <DependentUpon>frm_mater_organisation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_select_exam.resx">
+      <DependentUpon>frm_select_exam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_start.resx">
+      <DependentUpon>frm_start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_sub_group.resx">
+      <DependentUpon>frm_sub_group.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usr_cntrl.resx">
+      <DependentUpon>usr_cntrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="rpt_student_result.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_student_result.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="usr_cntrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usr_cntrl.Designer.cs">
+      <DependentUpon>usr_cntrl.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question No.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sections.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DLS Logo_Final Jpeg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DLS Logo_Final 2Jpeg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+    <None Include="rpt_student_result.xsc">
+      <DependentUpon>rpt_student_result.xsd</DependentUpon>
+    </None>
+    <None Include="rpt_student_result.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>rpt_student_result.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="rpt_student_result.xss">
+      <DependentUpon>rpt_student_result.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INSTRUCTIONS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\George_Intro .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GSCE Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\header.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right_images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right_images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrong_images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ExamIcon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,49 @@
+﻿.Menu
+{
+ background-color  : #EEE;
+ padding-left:150px;
+}
+
+.Menu ul
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	font-size: 100%;
+	cursor: default;
+	width: auto;
+	height:40px;
+}
+
+.Menu li
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	font-size: 100%;
+	position: relative;
+	text-align: left;
+	cursor: pointer;
+	width: 8em;
+	float: left;
+}
+
+.Menu a
+{
+	display: block;
+	cursor: pointer;
+	color: #333;
+	text-decoration : none;
+	background-color : #EEE;
+	padding: 0.5em 0.75em;
+}
+
+.Menu a:hover, .Menu a:focus
+{
+	
+	background-color: #bfbdbd;
+	color: #FFF;
+}
+
+
+

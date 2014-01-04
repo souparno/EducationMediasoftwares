@@ -1,0 +1,49 @@
+﻿body 
+{
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background: #42413C;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+.container 
+{
+	width: 960px;
+	margin: 0 auto; 
+	background: #FFF;
+	
+}
+.header {
+	background: #ADB96E;
+}
+
+.Image
+{
+	background: #C6D580; 
+	display:block;
+	width:180px;
+	height:90px;
+	border: none;
+}
+.sidebar {
+	float: left;
+	height:530px;
+	background: #EADCAE;
+
+}
+.content {
+	height:530px;
+}
+
+.footer 
+{
+	background: #CCC49F;
+	height:90px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 
+	padding-right: 15px;
+	padding-left: 15px; 
+}

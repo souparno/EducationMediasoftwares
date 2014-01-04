@@ -1,0 +1,10 @@
+D:\ExamLibrary Project\DAL\bin\Debug\DAL.dll
+D:\ExamLibrary Project\DAL\bin\Debug\DAL.pdb
+D:\ExamLibrary Project\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ExamLibrary Project\DAL\obj\Debug\DAL.dll
+D:\ExamLibrary Project\DAL\obj\Debug\DAL.pdb
+F:\souparno\ExamLibrary Project\DAL\bin\Debug\DAL.dll
+F:\souparno\ExamLibrary Project\DAL\bin\Debug\DAL.pdb
+F:\souparno\ExamLibrary Project\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\souparno\ExamLibrary Project\DAL\obj\Debug\DAL.dll
+F:\souparno\ExamLibrary Project\DAL\obj\Debug\DAL.pdb
